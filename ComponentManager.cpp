@@ -325,6 +325,7 @@ WASD::Detail::Dependencies WASD::ComponentManager::GetDependantComponents(const 
 
 	if (GetComponentID(aComponentType) > ME::enum_integer(ComponentType::Tag))
 	{
+		dependants.types[dependants.count++] = aComponentType;
 		return dependants;
 	}
 
