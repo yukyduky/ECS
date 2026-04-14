@@ -1,0 +1,1 @@
+This is the raw code of the ECS that I made from the engine my group made during our last year at The Game Assembly. Unfortunately, we're not allowed to share the code that we have kept from the school's own engine and so I can't share the whole thing. This is only meant to showcase some of my work during my time there.
